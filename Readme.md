@@ -4,13 +4,7 @@ A simple command-line **Tic-Tac-Toe** game for two players. Players take turns t
 
 ## 🧩 Game Board Layout
 
-|---|---|---|  
- | 1 | 2 | 3 |
-|-----------|
-| 4 | 5 | 6 |
-|-----------|
-| 7 | 8 | 9 |
-|---|---|---|
+![alt text](image.png)
 
 ## 🕹️ How to Play the Game
 
@@ -27,27 +21,13 @@ A simple command-line **Tic-Tac-Toe** game for two players. Players take turns t
 `Enter a slot number to place X in: 3`
 
 **Output:**
-
-|---|---|---|  
- | 1 | 2 | X |
-|-----------|
-| 4 | 5 | 6 |
-|-----------|
-| 7 | 8 | 9 |
-|---|---|---|
+![alt text](image-1.png)
 
 **Input:**  
 `Now, O's turn, Enter a slot number to place O in: 5`
 
 **Output:**
-
-|---|---|---|  
- | 1 | 2 | X |
-|-----------|
-| 4 | O | 6 |
-|-----------|
-| 7 | 8 | 9 |
-|---|---|---|
+![alt text](image-2.png)
 
 And the game continues...
 
